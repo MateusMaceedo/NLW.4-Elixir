@@ -1,4 +1,4 @@
-<img class="logo" src="/images/logo/logo.png" alt="Logotipo da Elixir">
+<img src="https://elixir-lang.org/images/logo/logo.png" width="225" height="94">
 
 # Next Level Week, trilha Elixir.
 
