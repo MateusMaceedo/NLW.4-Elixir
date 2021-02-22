@@ -131,7 +131,7 @@ Caso você esteja usando o Windows numa versão 32 Bit ou simplesmente não quer
 
 [Downloads](https://www.postgresql.org/download/)
 
->Documentação Oficial<https://elixir-lang.org/>
+>Documentação Oficial <https://elixir-lang.org/>
 
 
 
