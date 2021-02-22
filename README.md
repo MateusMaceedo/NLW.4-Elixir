@@ -1,4 +1,4 @@
-<img src="/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F47ad6ad0-55bc-44a2-b989-e88243834d4d%2Felixir-icon.png?table=block&amp;id=f823443d-e768-40cb-bcb8-ab1db8aa4667&amp;width=250&amp;userId=&amp;cache=v2" style="display: block; object-fit: cover; border-radius: 3px; width: 124.32px; height: 124.32px; transition: opacity 100ms ease-out 0s;">
+<img class="logo" src="/images/logo/logo.png" alt="Logotipo da Elixir">
 
 # Next Level Week, trilha Elixir.
 
