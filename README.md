@@ -133,6 +133,14 @@ Caso você esteja usando o Windows numa versão 32 Bit ou simplesmente não quer
 
 >Documentação Oficial <https://elixir-lang.org/>
 
+#### Dias
+- Dia 1: Rumo ao próximo nível - :heavy_check_mark:
+- Dia 2: A incrível dupla Phoenix e Ecto - :heavy_check_mark:
+- Dia 3:
+- Dia 4:
+
+
+
 
 
 
