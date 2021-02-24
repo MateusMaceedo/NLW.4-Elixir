@@ -138,6 +138,7 @@ Caso você esteja usando o Windows numa versão 32 Bit ou simplesmente não quer
 - Dia 2: A incrível dupla Phoenix e Ecto - :heavy_check_mark:
 - Dia 3:
 - Dia 4:
+- Dia 5:
 
 
 
