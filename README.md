@@ -135,9 +135,17 @@ Caso você esteja usando o Windows numa versão 32 Bit ou simplesmente não quer
 
 #### Dias
 - Dia 1: Rumo ao próximo nível - :heavy_check_mark:
+>Em nossa primeira aula você terá a oportunidade de entender os fundamentos do Elixir e Phoenix. Já nessa aula você criará sua primeira rota da APP e entenderá conceitos presentes no Elixir como Pattern Matching e Pipe Operator
+
 - Dia 2: A incrível dupla Phoenix e Ecto - :heavy_check_mark:
-- Dia 3:
-- Dia 4:
+>Agora que você já tem o conhecimento inicial em Elixir e Phoenix, é o momento para irmos um pouco além. Nessa aula veremos como lidar com banco de dados com o Ecto, criando e entendendo como funcionam as migrations, schemas e changesets. Além disso, criaremos nossa primeira rota de cadastro de Usuários. Depois dessa aula você será capaz de compreender como é o fluxo MVC do Phoenix.
+
+- Dia 3: Indo mais alto - :heavy_check_mark:
+>Chegou o momento de irmos mais alto e adicionarmos novas funcionalidades para a nossa API como criação de contas, depósito e saque. Ao fim dessa aula você estará mais aprofundado no funcionamento do Ecto e em como separar seu código em contextos.
+
+- Dia 4: Aprofundando nosso conhecimento - :heavy_check_mark:
+>Finalmente finalizaremos os fluxos de nossa aplicação criando a transação entre contas. Você também aprenderá a como criar suas próprias structs. Por fim, conversaremos brevemente sobre processos em Elixir.
+
 - Dia 5:
 
 
