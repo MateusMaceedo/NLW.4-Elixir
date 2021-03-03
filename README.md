@@ -150,6 +150,34 @@ Caso você esteja usando o Windows numa versão 32 Bit ou simplesmente não quer
 
 
 
+## 🚀 Como executar
+
+Para iniciar o seu servidor Phoenix:
+
+- Instale as dependências com `mix deps.get`
+- Crie o banco de dados e rode as migrations rodando `mix ecto.setup`
+- Inicie o servidor Phoenix com `mix phx.server`
+
+Agora você pode acessar [`localhost:4000`](http://localhost:4000) do seu navegador.
+
+Pronto para colocar em produção? Dá uma olhada nos [guias de deploy](https://hexdocs.pm/phoenix/deployment.html).
+
+## ⚡️ Saiba mais
+
+- Website oficial: [https://www.phoenixframework.org](https://www.phoenixframework.org/)
+- Guias: [https://hexdocs.pm/phoenix/overview.html](https://hexdocs.pm/phoenix/overview.html)
+- Documentação: [https://hexdocs.pm/phoenix](https://hexdocs.pm/phoenix)
+- Fórum: [https://elixirforum.com/c/phoenix-forum](https://elixirforum.com/c/phoenix-forum)
+- GitHub: [https://github.com/phoenixframework/phoenix](https://github.com/phoenixframework/phoenix)
+
+## 📄 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
 
 
 
